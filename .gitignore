@@ -1,0 +1,16 @@
+# Dossiers d'environnement virtuel
+.venv/
+venv/
+
+# Fichiers compilés Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Config locale
+*.env
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
